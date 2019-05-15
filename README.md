@@ -2,6 +2,8 @@
 
 [竞赛链接](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231687)
 
+>:warning: 由于可能存在的版权问题，请自行联系大赛主办方索要数据，在 Issues 中索要数据的请求将不再回复，谢谢!
+
 ## 背景
 
 复赛题目是在 Named Entity 给定的基础上，做 Relation 抽取。
